@@ -10,3 +10,5 @@ assignees: MrVauxs
 
 - **New Animations**:
   - Animation Name 1, Animation Name 2, Animation Name 3 (Thank You [@]()!)
+
+### Changed
